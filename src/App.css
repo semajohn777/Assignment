@@ -7,11 +7,11 @@
   text-align: center;
   background-image: url(pattern-background-desktop.svg);
   background-color: rgb(209, 221, 255);
-  padding: 3rem;
+  padding: 3em auto
 }
 
 section{
-  width: 85%;
+  width: 90%;
   margin: 2em auto;
   background-color: white;
   border-radius: 1.6em;
@@ -74,7 +74,7 @@ button{
 }
 .lastText{
   cursor: pointer;
-  margin: 0 0 2em 0;
+  padding:1em 0 2em 0;
 }
 /* @media only screen and (min-width: 500px) {
   section{
